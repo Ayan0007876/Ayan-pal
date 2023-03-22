@@ -36,6 +36,7 @@ int computer_choice(){
     int m=(rand()%(3-1+1)+1);
     return m;
 }
+
 int choice(int num){
 
     switch(num){
